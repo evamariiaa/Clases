@@ -1,3 +1,5 @@
+package clases;
+
 public class Contenedor { //Commit de prueba
 
     //informacion asociada a un contenedor

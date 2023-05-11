@@ -1,3 +1,7 @@
+package clases;
+
+import clases.Contenedor;
+
 public class Hub {
 
     //hub de contenedores
